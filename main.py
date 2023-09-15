@@ -23,6 +23,6 @@ if __name__ == "__main__":
         for gmail in gl:
             check(gmail=gmail)
     else:
-        print(colorama.Fore.CYAN+"python3 main.py <FirstName> <LastName> <DateOfBirth"+colorama.Fore.RESET)
+        print(colorama.Fore.CYAN+"python3 main.py <FirstName> <LastName> <DateOfBirth>"+colorama.Fore.RESET)
 
     
