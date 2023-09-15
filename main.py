@@ -1,6 +1,6 @@
 import sys , requests , colorama
 def main(fn,ln,dob):
-    sc = ["",".","-","_"]
+    sc = ["","-","_"]
     glist = []
     for i in sc:
         for j in sc:
